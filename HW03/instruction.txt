@@ -1,0 +1,17 @@
+ 1.   Instructions
+
+    Submissions:
+
+    For each problem submit your commented code, a readme.txt describing your solution, the heart of your algorithm and directions to run your submission.
+
+    e.g. python mysubmission.py < inputfile.txt
+
+    Zip up your submission and name your file <yourlastname>_HW3.<zip extension>
+
+    e.g. mellor_HW3.zip
+
+
+    Note: it may be easier to submit your code in separate files one file for each question.
+
+
+    I will post sample inputfiles with the correct answers shortly
