@@ -1,0 +1,16 @@
+All,
+
+Please upload your solutions as a zip file of the format … <your_last_name>_homework<number>.zip so I can easily download them.
+
+Thank you,
+David Mellor
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Submissions:
+For each problem submit your commented code, a readme.txt describing your solution, the heart of your algorithm and directions to run your submission.
+e.g. python mysubmission.py < inputfile.txt
+Zip up your submission and name your file <yourlastname>_HW3.<zip extension>
+e.g. mellor_HW3.zip
+
+Note that you must submit commented code and a readme.txt describing your solution with the heart of your algorithm and directions to run your submission. If you omit these, your submission will be considered incomplete.
